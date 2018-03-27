@@ -7,5 +7,7 @@ int main()
     cout << "git branches are strange" << endl;
     cout << "change" <<endl;
     cout << "Modif Sylvain" << endl;
+    cout << "Modif II Sylvain" << endl;
+    cout << "Modif amend Sylvain" << endl;
     return 0;
 }
